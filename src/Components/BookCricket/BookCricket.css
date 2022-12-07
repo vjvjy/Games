@@ -1,0 +1,26 @@
+
+.outer-container {
+    position: relative;
+    background-color: #000;
+  }
+  
+  .inner-container {
+    background-color: #e8e8e8;
+    width: 400px;
+    height: 500px;
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: 50px 0 0 -50px;
+  }
+  
+  .score-list {
+    padding: 25px;
+    height: 40px;
+  }
+  
+  .button-box {
+    width:95px;
+    height: 25px;
+    color: grey;
+  }
