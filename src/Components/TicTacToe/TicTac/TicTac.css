@@ -1,0 +1,16 @@
+.outer {
+    display: flex;
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .inner {
+    position: absolute;
+    top: 50%;
+    left: 40%;
+    margin: 150px 0 0 -50px;
+  }
+
+  .row {
+    display: flex;
+  }
